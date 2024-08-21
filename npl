@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Assuming 'myinterpreter' is the compiled binary located in the build directory
+./build/interpreter "$@"
